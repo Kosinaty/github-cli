@@ -1,0 +1,14 @@
+{
+  "name": "github-cli",
+  "version": "1.0.0",
+  "main": "srs/index.js",
+  "repository": "https://github.com/Kosinaty/github-cli.git",
+  "author": "kosinaty",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "dependencies": {
+    "github-api": "^3.0.0"
+  }
+}
